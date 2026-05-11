@@ -43,7 +43,7 @@ nb-configuration.xml
 /.quarkus/cli/plugins/
 
 # db
-./db-postgres/db
+db-postgres
 
 .idea
 
